@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Jardin Infantil\Vista.csproj", "{62254DD6-EF27-4A50-B7C0-F49D5A482159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{C090099D-2B4E-4E93-B8BF-660B77D808F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlador", "Controlador\Controlador.csproj", "{E456D663-4C1B-4119-873A-3F76421C3C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62254DD6-EF27-4A50-B7C0-F49D5A482159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62254DD6-EF27-4A50-B7C0-F49D5A482159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62254DD6-EF27-4A50-B7C0-F49D5A482159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62254DD6-EF27-4A50-B7C0-F49D5A482159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C090099D-2B4E-4E93-B8BF-660B77D808F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C090099D-2B4E-4E93-B8BF-660B77D808F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C090099D-2B4E-4E93-B8BF-660B77D808F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C090099D-2B4E-4E93-B8BF-660B77D808F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E456D663-4C1B-4119-873A-3F76421C3C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E456D663-4C1B-4119-873A-3F76421C3C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E456D663-4C1B-4119-873A-3F76421C3C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E456D663-4C1B-4119-873A-3F76421C3C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59420CFE-AB22-4FFC-9988-2CDFA8162ECD}
+	EndGlobalSection
+EndGlobal
